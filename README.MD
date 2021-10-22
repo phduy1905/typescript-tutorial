@@ -14,7 +14,7 @@
 - Understand OOP principles: encapsulation, abstraction, inheritance, polymorphism
   - Encapsulation: By using private, protected access modifier, properties inside a class could not be modified from outside.
   - Abstraction: Abstract class and interface only define general properties or methods, sub-class will base on those rules to implement interface or extend abstract class.
-  - Inheritance: Subclass can have the properties
+  - Inheritance: Subclass extends the properties and methods of superclass.
   - Polymorphism: Methods and properties from one class might be different or return different result from other class, even though both two classes extends from same superclass.
 
 2. Solid Principle
